@@ -1,0 +1,39 @@
+# FastAPI
+fastapi==0.116.1
+uvicorn[standard]==0.35.0
+
+# Configuration
+python-dotenv==1.1.1
+pydantic==2.11.7
+pydantic-settings==2.10.1
+
+# Database
+sqlalchemy==2.0.42
+psycopg2-binary==2.9.10
+alembic==1.16.4
+
+# Browser Automation
+playwright==1.54.0
+
+# Logging
+loguru==0.7.3
+
+# HTTP Client
+httpx==0.28.1
+
+# Scheduler
+apscheduler==3.11.0
+
+# File Handling
+python-multipart==0.0.20
+
+# Data Processing
+pandas==2.3.1
+numpy==2.3.2
+
+# Validation
+email-validator==2.2.0
+
+# Testing
+pytest==8.4.1
+pytest-asyncio==1.1.0
